@@ -23,6 +23,8 @@
 
 <a href = "https://www.linkedin.com/in//sümeyra-özuğur-39s/"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409945.png" width="40" height="40"/></a>
 <a href = "https://www.instagram.com/sumeyraozugur"><img src="https://cdn-icons-png.flaticon.com/512/1409/1409946.png" idth="40" height="40"/></a>
+[<img alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/>](https://www.hackerrank.com/ozugursumeyra)
+
 
 </p>
 
