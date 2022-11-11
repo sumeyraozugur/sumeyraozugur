@@ -5,8 +5,9 @@
 
 
 ## 🙋‍ Who am I? 
-- 🔭 I am gruaded from Muğla Sıtkı Koçman University
-- 🌱 I’m currently learning Kotlin  
+- 🔭 Having graduated from Muğla Sıtkı Koçman University
+- I’m working as a Software Engineer at Yeo. 
+- 🌱 Mobile lover, dreamer, someone who loves to help.
 - 💬 Ask me about Python, Kotlin, Flutter 
 - I regularly write articles on [medium](https://ozugursumeyra.medium.com/) 
 - 📫 How to reach me: ozugursumeyra@gmail.com 
