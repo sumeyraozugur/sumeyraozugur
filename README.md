@@ -6,7 +6,7 @@
 
 ## 🙋‍ Who am I? 
 - 🔭 Having graduated from Muğla Sıtkı Koçman University
-- I’m working as a Software Engineer at Yeo. 
+- I’m working as an Android Developer at Atmosware. 
 - 🌱 Mobile lover, dreamer, someone who loves to help.
 - 💬 Ask me about Python, Kotlin, Flutter 
 - I regularly write articles on [medium](https://ozugursumeyra.medium.com/) 
